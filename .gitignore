@@ -16,7 +16,13 @@ data/*.txt
 data/*.csv
 data/*.json
 data/*.parquet
+data/*.tsv
+data/*.zip
+data/sms_spam/
 !data/.gitkeep
+
+# GPT-2 downloaded weights (large TF checkpoint files)
+gpt2/
 
 # Model checkpoints (large files)
 checkpoints/*.pt

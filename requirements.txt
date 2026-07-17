@@ -6,3 +6,5 @@ tqdm>=4.66.1
 numpy>=1.26
 pandas>=2.2.1
 psutil>=5.9.5
+gradio>=4.0.0
+
